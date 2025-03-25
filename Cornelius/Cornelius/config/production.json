@@ -1,0 +1,16 @@
+{
+  "database": {
+    "host": "prod-db-host",
+    "user": "prod-db-user",
+    "password": "prod-db-password",
+    "database": "prod-db-name"
+  },
+  "logging": {
+    "level": "info",
+    "file": "/var/log/cornelius.log"
+  },
+  "security": {
+    "enableHTTPS": true,
+    "sessionSecret": "your-production-session-secret"
+  }
+}

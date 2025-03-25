@@ -1,0 +1,11 @@
+# List your dependencies here
+# dependency1==1.0.0
+# dependency2==2.0.0
+numpy
+pandas
+scikit-learn
+tensorflow
+jedi
+pylint
+logging==0.5.1.2
+# ...other dependencies...

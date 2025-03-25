@@ -1,0 +1,15 @@
+{
+  "name": "cornelius",
+  "version": "1.0.0",
+  "description": "Cornelius project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "helmet": "^4.6.0",
+    "worker_threads": "^1.0.1"
+  }
+}

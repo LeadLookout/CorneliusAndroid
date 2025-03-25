@@ -1,0 +1,6 @@
+module.exports = {
+  // ...existing code...
+  maxWorkers: "50%", // Run tests in parallel using 50% of available CPUs
+  cache: true, // Enable test result caching
+  // ...existing code...
+};
